@@ -1,0 +1,7 @@
+finetune_qa_pairs_14k
+mlruns
+models
+runs
+test_results
+wandb
+.ipynb_checkpoints

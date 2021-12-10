@@ -11,9 +11,8 @@ Link for the paper: https://link.springer.com/chapter/10.1007/978-3-030-91699-2_
 ## Citing
 
 Cite this paper as:
-```
-    Cação F.N., José M.M., Oliveira A.S., Spindola S., Costa A.H.R., Cozman F.G. (2021) DEEPAGÉ: Answering Questions in Portuguese About the Brazilian Environment. In: Britto A., Valdivia Delgado K. (eds) Intelligent Systems. BRACIS 2021. Lecture Notes in Computer Science, vol 13074. Springer, Cham. https://doi.org/10.1007/978-3-030-91699-2_29
-```
+
+*Cação F.N., José M.M., Oliveira A.S., Spindola S., Costa A.H.R., Cozman F.G. (2021) DEEPAGÉ: Answering Questions in Portuguese About the Brazilian Environment. In: Britto A., Valdivia Delgado K. (eds) Intelligent Systems. BRACIS 2021. Lecture Notes in Computer Science, vol 13074. Springer, Cham. https://doi.org/10.1007/978-3-030-91699-2_29*
 
 ## Acknowledgments
 This work was financed in part by the Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES, Finance Code 001) and by the Itaú Unibanco S.A., through the Programa de Bolsas Itaú (PBI) of the Centro de Ciência de Dados (C 2 D) of Escola Politécnica of Universidade de São Paulo (USP). We also gratefully acknowledge support from Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) (grants 312180/2018-7 and 310085/2020-9) and the Center for Artificial Intelligence (C4AI-USP), with support by the Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP, grant 2019/ 07665-4) and by the IBM Corporation.
